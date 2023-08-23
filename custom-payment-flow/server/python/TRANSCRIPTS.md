@@ -1,7 +1,7 @@
 # Accept a payment
 
 
-You can [🎥 watch a video](https://www.youtube.com/watch?v=cbsCxLDL4EY) to see how this server was implemented and [read the transcripts](./TRANSCRIPTS.md).
+You can [🎥 watch a video](https://youtu.be/3s4Dwox7oTQ) to see how this server was implemented and [read the transcripts](./TRANSCRIPTS.md).
 
 ---
 
